@@ -1,2 +1,2 @@
 # Basic-Portfolio
-repo for my portfolio
+Repository for my basic portfolio created for a class assignment
